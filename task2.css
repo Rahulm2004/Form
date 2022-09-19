@@ -1,0 +1,15 @@
+label{
+    color:rgb(18, 0, 45);
+    font-style:oblique;
+}
+*{
+    background-color:darkgrey;
+}
+button:hover{
+    background-color: darkviolet;
+}
+body{
+    border-style:double;
+    padding: 10mm;
+    border-color: darkblue;
+}
